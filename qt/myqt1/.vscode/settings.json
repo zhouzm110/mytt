@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.dis": "arm",
+        "*.h": "c",
+        "*.pro": "makefile",
+        "qtwidgets": "cpp",
+        "qapplication": "cpp",
+        "qmenubar": "cpp"
+    }
+}
